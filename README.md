@@ -9,7 +9,7 @@ Online payment fraud is rapidly increasing worldwide across multiple channels su
 
 Current fraud detection solutions often fail to provide real-time protection and lack adaptive intelligence, which results in delayed or missed detections and significant financial losses.
 
-*Key Challenge:*  
+Key Challenge:
 How can we build a system that instantly detects and blocks fraudulent behavior before damage occurs?
 
 ---
@@ -35,7 +35,6 @@ We propose a real-time, intelligent fraud detection system with the following ca
 - Audit trails and reporting for compliance and analysis.
 - Dashboard integration for analysts and stakeholders.
 
----
 
 ## Sample Code Snippet: Transaction Risk Scoring (Python)
 
